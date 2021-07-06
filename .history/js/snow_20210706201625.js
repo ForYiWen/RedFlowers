@@ -1,4 +1,4 @@
-const NUMBER_OF_LEAVES = 27;
+const NUMBER_OF_LEAVES = 100;
 
 function init() {
 
